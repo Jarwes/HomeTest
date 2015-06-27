@@ -1,0 +1,10 @@
+/*!
+ * Local style.css to override Bootstrap default definitions loaded by these lines in the HTML:
+ * 	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+ *	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+ * Copyright 2015 Jim Bradley
+ */
+ 
+body {
+	padding-top: 50px;
+}
